@@ -11,11 +11,9 @@ Project Grade:
 
 -mmousavi-
 Project Grade: 80/100 (B)
-* Late (-5)
 
 Milestone:  pass
-Core Project: 75
-Full Credit:0/13
+
  -	Missing clusters fails (-10)
  - getKElems
 Decomposition and Style: 10
